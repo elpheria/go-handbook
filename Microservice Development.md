@@ -15,7 +15,7 @@ We currently use on the latest version of Golang when developing. A same version
 ## General purpose tools
 
 The tools we use when developing a microservice, and those are mainly python and shell scripts,
-are meant to be fetched from our [contrib](https://github.com/qaap/contrib) project.  
+are meant to be fetched from our [contrib](https://github.com/elpheria/contrib) project.  
 Once the application is *kickstarted*, we could add those tools via git submodule with the following command:
 
 ```git submodule add https://github.com/qaap/contrib tools```
